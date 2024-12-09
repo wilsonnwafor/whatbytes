@@ -1,5 +1,5 @@
 export interface CircularProgress {
-  percentage: any;
+  percentage: number;
   img: string;
   question: number;
 }
